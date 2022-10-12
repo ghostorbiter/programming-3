@@ -1,0 +1,19 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.exe
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.deps.json
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.runtimeconfig.json
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.runtimeconfig.dev.json
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\ref\Lab 13.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\Lab 13.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\ref\Lab 13.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\obj\Debug\net5.0\Lab 13.genruntimeconfig.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\movies.csv
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\ratings.csv
+h:\Windows7\Desktop\yusupovy cs\Lab 13\Lab 13\bin\Debug\net5.0\users.csv

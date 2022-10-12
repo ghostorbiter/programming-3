@@ -1,0 +1,14 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.exe
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.deps.json
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.json
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.runtimeconfig.dev.json
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\bin\Debug\netcoreapp3.1\Lab 2.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 2\Lab 2\Lab 2\obj\Debug\netcoreapp3.1\Lab 2.genruntimeconfig.cache

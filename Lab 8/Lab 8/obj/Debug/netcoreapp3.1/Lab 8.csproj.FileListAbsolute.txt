@@ -1,0 +1,14 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.exe
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.deps.json
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.runtimeconfig.json
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.runtimeconfig.dev.json
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\bin\Debug\netcoreapp3.1\Lab 8.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 8\Lab 8\obj\Debug\netcoreapp3.1\Lab 8.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\obj\Debug\net5.0\SortingTest.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\obj\Debug\net5.0\SortingTest.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\obj\Debug\net5.0\SortingTest.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\obj\Debug\net5.0\SortingTest.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 11\SortingTest\obj\Debug\net5.0\SortingTest.csproj.CoreCompileInputs.cache

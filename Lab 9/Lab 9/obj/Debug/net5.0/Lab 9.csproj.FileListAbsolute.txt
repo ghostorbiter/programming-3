@@ -1,0 +1,16 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.exe
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.deps.json
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.runtimeconfig.json
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.runtimeconfig.dev.json
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\ref\Lab 9.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\ref\Lab 9.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.AssemblyInfo.cs
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\bin\Debug\net5.0\Lab 11.deps.json
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\bin\Debug\net5.0\Lab 11.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\bin\Debug\net5.0\ref\Lab 11.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\bin\Debug\net5.0\Lab 11.pdb
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\ref\Lab 11.dll
+h:\Windows7\Desktop\yusupovy cs\Lab 11\Lab 11\obj\Debug\net5.0\Lab 11.pdb
